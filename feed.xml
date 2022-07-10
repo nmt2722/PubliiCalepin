@@ -3,7 +3,7 @@
     <title>Buzzer</title>
     <link href="https://nmt2722.github.io/PubliiCalepin/feed.xml" rel="self" />
     <link href="https://nmt2722.github.io/PubliiCalepin" />
-    <updated>2022-07-10T21:54:29+05:30</updated>
+    <updated>2022-07-10T22:02:22+05:30</updated>
     <author>
         <name>23</name>
     </author>
@@ -41,9 +41,13 @@
         <link href="https://nmt2722.github.io/PubliiCalepin/more-testing.html"/>
         <id>https://nmt2722.github.io/PubliiCalepin/more-testing.html</id>
 
-        <updated>2022-07-10T21:54:00+05:30</updated>
+        <updated>2022-07-10T22:02:22+05:30</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://nmt2722.github.io/PubliiCalepin/media/posts/2/whiledowhile.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nmt2722.github.io/PubliiCalepin/media/posts/2/responsive/whiledowhile-xs.png 300w ,https://nmt2722.github.io/PubliiCalepin/media/posts/2/responsive/whiledowhile-sm.png 480w ,https://nmt2722.github.io/PubliiCalepin/media/posts/2/responsive/whiledowhile-md.png 768w"  alt="" width="715" height="516"></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Test Post</title>

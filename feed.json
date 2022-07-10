@@ -38,13 +38,14 @@
             "id": "https://nmt2722.github.io/PubliiCalepin/more-testing.html",
             "url": "https://nmt2722.github.io/PubliiCalepin/more-testing.html",
             "title": "more testing",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://nmt2722.github.io/PubliiCalepin/media/posts/2/whiledowhile.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://nmt2722.github.io/PubliiCalepin/media/posts/2/responsive/whiledowhile-xs.png 300w ,https://nmt2722.github.io/PubliiCalepin/media/posts/2/responsive/whiledowhile-sm.png 480w ,https://nmt2722.github.io/PubliiCalepin/media/posts/2/responsive/whiledowhile-md.png 768w\"  alt=\"\" width=\"715\" height=\"516\"></figure>",
             "author": {
                 "name": "23"
             },
             "tags": [
             ],
             "date_published": "2022-07-10T21:54:00+05:30",
-            "date_modified": "2022-07-10T21:54:00+05:30"
+            "date_modified": "2022-07-10T22:02:22+05:30"
         },
         {
             "id": "https://nmt2722.github.io/PubliiCalepin/test-post.html",
