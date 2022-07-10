@@ -19,17 +19,18 @@
 - After saving, your GitHub pages will be ready to be used as a static website host; to view your website you'll need to go to the URL provided in the green message box. Of course, your site doesn't have any files yet, but we're going to change that.
 - With everything prepared on Github, we can update the connection settings in Publii to sync with the Github Page repository that we just created. First, open up Publii; if you haven't already created your website, create one and add at least one post and ensure that you've selected a theme; without them your site will not be created properly.
 ### Updating the site
-Now click on the Server option in the left-sidebar to open the Server Settings screen. Fill out the fields with the following information:
+- Now click on the Server option in the left-sidebar to open the Server Settings screen. Fill out the fields with the following information:
 
-Website Url - This will be your Github repository path, which uses the format "YOUR_USERNAME.github.io/ YOUR_REPOSITORY_NAME".
-API Server - By default, this field is already completed with the standard API server. However, if you are running your own instance of GitHub, you can change the API server by entering it here.
-Username - Add your Github username here.
-Repository - Enter the name of your Github repository here (we set this in step 2 of the Github Page section above).
-Branch - If you've been following our guide, then write main (case-sensitive) in the text field; experienced users may want to specify other settings such as gh-pages, docs etc...
-Token - Remember the access token we saved in the first part of this guide? Enter that here so that Publii can access the repository.
-Parallel Uploads - Defaults to '1'. Sets the number of upload streams that Publii can use when uploading your site content to GitHub Pages. Higher numbers allows for faster uploads, but can cause errors on slow connections, or an error 403 due to API upload rate limits.
- API rate limiting - Disable this option only if you are using Github Enterprise with disabled API rate limiting. Otherwhise disabling this option can cause deployment errors.
-Once all the options are set, click on the Save Settings button to store your changes. Now may be a good time to click the Test Connection button, which will check to see if Publii is able to connect to your Github Page; if not, then some of the fields may have been entered incorrectly.
+  - Website Url - This will be your Github repository path, which uses the format "YOUR_USERNAME.github.io/ YOUR_REPOSITORY_NAME".
+  - API Server - By default, this field is already completed with the standard API server. However, if you are running your own instance of GitHub, you can change the     API server by entering it here.
+  - Username - Add your Github username here.
+  - Repository - Enter the name of your Github repository here (we set this in step 2 of the Github Page section above).
+  - Branch - If you've been following our guide, then write main (case-sensitive) in the text field; experienced users may want to specify other settings such as gh-pages, docs etc...
+  - Token - Remember the access token we saved in the first part of this guide? Enter that here so that Publii can access the repository.
+  - Parallel Uploads - Defaults to '1'. Sets the number of upload streams that Publii can use when uploading your site content to GitHub Pages. Higher numbers allows for faster uploads, but can cause errors on slow connections, or an error 403 due to API upload rate limits.
+  -  API rate limiting - Disable this option only if you are using Github Enterprise with disabled API rate limiting. Otherwhise disabling this option can cause deployment errors.
+  
+### Once all the options are set, click on the Save Settings button to store your changes. Now may be a good time to click the Test Connection button, which will check to see if Publii is able to connect to your Github Page; if not, then some of the fields may have been entered incorrectly.
 
 Everything is now ready, so we can click the Sync your website button in the Publii sidebar to start deployment.
 
