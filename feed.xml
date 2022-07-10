@@ -3,10 +3,30 @@
     <title>Buzzer</title>
     <link href="https://nmt2722.github.io/PubliiCalepin/feed.xml" rel="self" />
     <link href="https://nmt2722.github.io/PubliiCalepin" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2022-07-10T21:51:16+05:30</updated>
     <author>
         <name>23</name>
     </author>
     <id>https://nmt2722.github.io/PubliiCalepin</id>
 
+    <entry>
+        <title>Test Post</title>
+        <author>
+            <name>23</name>
+        </author>
+        <link href="https://nmt2722.github.io/PubliiCalepin/test-post.html"/>
+        <id>https://nmt2722.github.io/PubliiCalepin/test-post.html</id>
+
+        <updated>2022-07-10T21:51:16+05:30</updated>
+            <summary>
+                <![CDATA[
+                    some lorem ipsum
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>some lorem ipsum</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

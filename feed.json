@@ -9,5 +9,19 @@
         "name": "23"
     },
     "items": [
+        {
+            "id": "https://nmt2722.github.io/PubliiCalepin/test-post.html",
+            "url": "https://nmt2722.github.io/PubliiCalepin/test-post.html",
+            "title": "Test Post",
+            "summary": "some lorem ipsum",
+            "content_html": "<p>some lorem ipsum</p>",
+            "author": {
+                "name": "23"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-10T21:51:16+05:30",
+            "date_modified": "2022-07-10T21:51:16+05:30"
+        }
     ]
 }
