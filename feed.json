@@ -5,130 +5,150 @@
     "home_page_url": "https://nmt2722.github.io/PubliiCalepin",
     "feed_url": "https://nmt2722.github.io/PubliiCalepin/feed.json",
     "user_comment": "",
-    "icon": "https://nmt2722.github.io/PubliiCalepin/media/website/LINUX.png",
+    "icon": "https://nmt2722.github.io/PubliiCalepin/media/website/IMG-20210102-WA0005.jpg",
     "author": {
-        "name": "23"
+        "name": "nmt"
     },
     "items": [
+        {
+            "id": "https://nmt2722.github.io/PubliiCalepin/about.html",
+            "url": "https://nmt2722.github.io/PubliiCalepin/about.html",
+            "title": "About",
+            "summary": "THE SITE IS STILL UNDER CONSTRUCTION",
+            "content_html": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://nmt2722.github.io/PubliiCalepin/media/posts/18/Peek-2021-05-27-07-05.gif\" alt=\"\" width=\"383\" height=\"340\"></figure>\n<p> </p>\n<h2 class=\"align-center\"><strong><span style=\"text-decoration: underline;\"><span style=\"color: #e03e2d; text-decoration: underline;\">THE SITE IS STILL UNDER CONSTRUCTION</span></span></strong></h2>",
+            "author": {
+                "name": "nmt"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-14T12:15:31+05:30",
+            "date_modified": "2022-07-14T12:15:31+05:30"
+        },
         {
             "id": "https://nmt2722.github.io/PubliiCalepin/final-thoughts.html",
             "url": "https://nmt2722.github.io/PubliiCalepin/final-thoughts.html",
             "title": "final Thoughts",
+            "summary": "Connecting with the Community Getting Support Learning More",
+            "content_html": "<ol>\n<li>\n<h2><span style=\"color: #169179;\">Connecting with the Community</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Getting Support</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Learning More</span></h2>\n</li>\n</ol>",
             "author": {
-                "name": "23"
+                "name": "nmt"
             },
             "tags": [
             ],
             "date_published": "2022-07-14T08:35:34+05:30",
-            "date_modified": "2022-07-14T08:35:34+05:30"
+            "date_modified": "2022-07-14T12:12:44+05:30"
         },
         {
             "id": "https://nmt2722.github.io/PubliiCalepin/security-and-maintenance.html",
             "url": "https://nmt2722.github.io/PubliiCalepin/security-and-maintenance.html",
             "title": "Security and Maintenance",
+            "summary": "Cron Configuring Cron Maintenance Tasks Security and Regular Updates Keeping Track of Updates Updating the Core Software Updating a Module&hellip;",
+            "content_html": "<ol>\n<li>\n<h2><span style=\"color: #169179;\">Cron </span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Configuring Cron Maintenance Tasks</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Security and Regular Updates</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Keeping Track of Updates</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Updating the Core Software</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Updating a Module</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\"> Updating a Theme </span></h2>\n</li>\n</ol>",
             "author": {
-                "name": "23"
+                "name": "nmt"
             },
             "tags": [
             ],
             "date_published": "2022-07-14T08:35:24+05:30",
-            "date_modified": "2022-07-14T08:35:24+05:30"
+            "date_modified": "2022-07-14T12:10:49+05:30"
         },
         {
             "id": "https://nmt2722.github.io/PubliiCalepin/preventing-and-fixing-problems.html",
             "url": "https://nmt2722.github.io/PubliiCalepin/preventing-and-fixing-problems.html",
             "title": "Preventing and Fixing Problems",
+            "summary": "Cache Clearing the Cache Data Backups Log Status Report",
+            "content_html": "<ol>\n<li>\n<h2><span style=\"color: #169179;\">Cache</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Clearing the Cache</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Data Backups</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Log</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Status Report</span></h2>\n</li>\n</ol>",
             "author": {
-                "name": "23"
+                "name": "nmt"
             },
             "tags": [
             ],
             "date_published": "2022-07-14T08:35:11+05:30",
-            "date_modified": "2022-07-14T08:35:11+05:30"
+            "date_modified": "2022-07-14T12:08:45+05:30"
         },
         {
             "id": "https://nmt2722.github.io/PubliiCalepin/extending-and-customizing-your-site.html",
             "url": "https://nmt2722.github.io/PubliiCalepin/extending-and-customizing-your-site.html",
             "title": "Extending and Customizing your site",
+            "summary": "Finding Modules Enabling and Disabling Maintenance Mode Downloading and Installing a Module from Drupal.org Finding Themes Downloading and Installing a&hellip;",
+            "content_html": "<ol>\n<li>\n<h2><span style=\"color: #169179;\">Finding Modules</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Enabling and Disabling Maintenance Mode</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Downloading and Installing a Module from Drupal.org</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Finding Themes</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Downloading and Installing a Theme from Drupal.org</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Manually Downloading Module or Theme Files</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Development Sites </span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Making a Development Site</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Deploying New Site Features</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Synchronizing Configuration Versions</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Managing File and Configuration Revisions with Git </span></h2>\n</li>\n</ol>",
             "author": {
-                "name": "23"
+                "name": "nmt"
             },
             "tags": [
             ],
             "date_published": "2022-07-14T08:34:43+05:30",
-            "date_modified": "2022-07-14T08:34:43+05:30"
+            "date_modified": "2022-07-14T12:06:29+05:30"
         },
         {
             "id": "https://nmt2722.github.io/PubliiCalepin/making-your-site-multilingual.html",
             "url": "https://nmt2722.github.io/PubliiCalepin/making-your-site-multilingual.html",
             "title": "Making your site Multilingual",
+            "summary": "Adding a Language Configuring Content Translation Translating Content Translating Configuration",
+            "content_html": "<ol>\n<li>\n<h2><span style=\"color: #169179;\">Adding a Language</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Configuring Content Translation </span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Translating Content</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Translating Configuration</span></h2>\n</li>\n</ol>",
             "author": {
-                "name": "23"
+                "name": "nmt"
             },
             "tags": [
             ],
             "date_published": "2022-07-14T08:34:16+05:30",
-            "date_modified": "2022-07-14T08:34:16+05:30"
+            "date_modified": "2022-07-14T12:02:56+05:30"
         },
         {
             "id": "https://nmt2722.github.io/PubliiCalepin/creating-listings-with-views.html",
             "url": "https://nmt2722.github.io/PubliiCalepin/creating-listings-with-views.html",
             "title": "Creating Listings with Views",
+            "summary": "Uses of Views The Parts of a View Creating a Content List View Duplicating a View Adding a Block Display&hellip;",
+            "content_html": "<ol>\n<li>\n<h2><span style=\"color: #169179;\">Uses of Views</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">The Parts of a View</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Creating a Content List View</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Duplicating a View</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Adding a Block Display to a View</span></h2>\n</li>\n</ol>",
             "author": {
-                "name": "23"
+                "name": "nmt"
             },
             "tags": [
             ],
             "date_published": "2022-07-14T08:33:58+05:30",
-            "date_modified": "2022-07-14T08:33:58+05:30"
+            "date_modified": "2022-07-14T12:01:49+05:30"
         },
         {
             "id": "https://nmt2722.github.io/PubliiCalepin/blocks.html",
             "url": "https://nmt2722.github.io/PubliiCalepin/blocks.html",
             "title": "Blocks",
+            "summary": "Blocks Creating A Custom Block Placing a Block in a Region",
+            "content_html": "<ol>\n<li>\n<h2><span style=\"color: #169179;\">Blocks</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Creating A Custom Block</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Placing a Block in a Region </span></h2>\n</li>\n</ol>",
             "author": {
-                "name": "23"
+                "name": "nmt"
             },
             "tags": [
             ],
             "date_published": "2022-07-14T08:33:33+05:30",
-            "date_modified": "2022-07-14T08:33:33+05:30"
+            "date_modified": "2022-07-14T11:47:47+05:30"
         },
         {
             "id": "https://nmt2722.github.io/PubliiCalepin/managing-user-accounts.html",
             "url": "https://nmt2722.github.io/PubliiCalepin/managing-user-accounts.html",
             "title": "Managing User Accounts",
+            "summary": "Users, Roles, and Permissions The User 1 Account Creating a Role Creating a User Account Assigning Permissions to a Role&hellip;",
+            "content_html": "<ol>\n<li>\n<h2><span style=\"color: #169179;\">Users, Roles, and Permissions</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">The User 1 Account</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Creating a Role</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Creating a User Account</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Assigning Permissions to a Role</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Changing a User’s Roles</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Assigning Authors to Content</span></h2>\n</li>\n</ol>",
             "author": {
-                "name": "23"
+                "name": "nmt"
             },
             "tags": [
             ],
             "date_published": "2022-07-14T08:33:25+05:30",
-            "date_modified": "2022-07-14T08:33:25+05:30"
+            "date_modified": "2022-07-14T11:46:25+05:30"
         },
         {
             "id": "https://nmt2722.github.io/PubliiCalepin/setting-up-content-structure.html",
             "url": "https://nmt2722.github.io/PubliiCalepin/setting-up-content-structure.html",
             "title": "Setting Up Content Structure",
+            "summary": "Adding a Content Type Deleting a Content Type Adding Basic Fields to a Content Type Reference Fields Taxonomy Setting up&hellip;",
+            "content_html": "<ol>\n<li>\n<h2><span style=\"color: #169179;\">Adding a Content Type</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Deleting a Content Type</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Adding Basic Fields to a Content Type</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Reference Fields</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Taxonomy</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Setting up a Taxanomy</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Adding Reference Field</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Forms and Widgets</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Chnging Content Entry Forms</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">View Modes and Formatters</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Changing Content Display</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Image Styles</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Setting Up an Image Style</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Responsive Image Styles</span></h2>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Text Formats and Editors</span></h2>\n<ol>\n<li>What are text formats and filters?</li>\n<li>What are the editors associated with text formats?</li>\n<li>What is cross-site scripting? </li>\n</ol>\n</li>\n<li>\n<h2><span style=\"color: #169179;\">Configuring Text Formats and Editors</span></h2>\n</li>\n</ol>",
             "author": {
-                "name": "23"
+                "name": "nmt"
             },
             "tags": [
             ],
             "date_published": "2022-07-14T08:33:02+05:30",
-            "date_modified": "2022-07-14T08:33:02+05:30"
-        },
-        {
-            "id": "https://nmt2722.github.io/PubliiCalepin/basic-page-management.html",
-            "url": "https://nmt2722.github.io/PubliiCalepin/basic-page-management.html",
-            "title": "Basic Page Management",
-            "author": {
-                "name": "23"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-07-14T08:32:44+05:30",
-            "date_modified": "2022-07-14T08:32:44+05:30"
+            "date_modified": "2022-07-14T11:29:47+05:30"
         }
     ]
 }
