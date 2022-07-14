@@ -11,58 +11,124 @@
     },
     "items": [
         {
-            "id": "https://nmt2722.github.io/PubliiCalepin/and-more.html",
-            "url": "https://nmt2722.github.io/PubliiCalepin/and-more.html",
-            "title": "Azure VMs",
+            "id": "https://nmt2722.github.io/PubliiCalepin/final-thoughts.html",
+            "url": "https://nmt2722.github.io/PubliiCalepin/final-thoughts.html",
+            "title": "final Thoughts",
             "author": {
                 "name": "23"
             },
             "tags": [
             ],
-            "date_published": "2022-07-10T21:54:29+05:30",
-            "date_modified": "2022-07-13T19:25:27+05:30"
+            "date_published": "2022-07-14T08:35:34+05:30",
+            "date_modified": "2022-07-14T08:35:34+05:30"
         },
         {
-            "id": "https://nmt2722.github.io/PubliiCalepin/more-and-more.html",
-            "url": "https://nmt2722.github.io/PubliiCalepin/more-and-more.html",
-            "title": "Drupal",
-            "summary": "Keep Calm and Drive On It always seems impossible ... untill it is done",
-            "content_html": "<blockquote><span style=\"color: #000000;\"><strong>Keep Calm and Drive On</strong></span></blockquote>\n<p> </p>\n<blockquote><span style=\"color: #000000;\"><strong>No road is long with good company</strong></span></blockquote>\n<p> </p>\n<blockquote><span style=\"color: #000000;\"><strong>It always seems impossible ... untill it is done</strong></span></blockquote>",
+            "id": "https://nmt2722.github.io/PubliiCalepin/security-and-maintenance.html",
+            "url": "https://nmt2722.github.io/PubliiCalepin/security-and-maintenance.html",
+            "title": "Security and Maintenance",
             "author": {
                 "name": "23"
             },
             "tags": [
             ],
-            "date_published": "2022-07-10T21:54:17+05:30",
-            "date_modified": "2022-07-13T19:48:56+05:30"
+            "date_published": "2022-07-14T08:35:24+05:30",
+            "date_modified": "2022-07-14T08:35:24+05:30"
         },
         {
-            "id": "https://nmt2722.github.io/PubliiCalepin/more-testing.html",
-            "url": "https://nmt2722.github.io/PubliiCalepin/more-testing.html",
-            "title": "Azure",
-            "summary": "Go where you have never been If you dont know where you are going,any road will get you there",
-            "content_html": "<blockquote><span style=\"color: #000000;\"><strong>Go where you have never been</strong></span></blockquote>\n<blockquote><span style=\"color: #000000;\"><strong>If you dont know where you are going,any road will get you there</strong></span></blockquote>\n<p> </p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 11.127%;\">Ser</td>\n<td style=\"width: 53.7787%;\">Topic</td>\n<td style=\"width: 18.1186%;\">Check</td>\n<td style=\"width: 16.9757%;\">Solution</td>\n</tr>\n<tr>\n<td style=\"width: 11.127%;\">1</td>\n<td style=\"width: 53.7787%;\">What is Cloud Computing</td>\n<td style=\"width: 18.1186%;\"> </td>\n<td style=\"width: 16.9757%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 11.127%;\"> </td>\n<td style=\"width: 53.7787%;\"> </td>\n<td style=\"width: 18.1186%;\"> </td>\n<td style=\"width: 16.9757%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 11.127%;\"> </td>\n<td style=\"width: 53.7787%;\"> </td>\n<td style=\"width: 18.1186%;\"> </td>\n<td style=\"width: 16.9757%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 11.127%;\"> </td>\n<td style=\"width: 53.7787%;\"> </td>\n<td style=\"width: 18.1186%;\"> </td>\n<td style=\"width: 16.9757%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 11.127%;\"> </td>\n<td style=\"width: 53.7787%;\"> </td>\n<td style=\"width: 18.1186%;\"> </td>\n<td style=\"width: 16.9757%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 11.127%;\"> </td>\n<td style=\"width: 53.7787%;\"> </td>\n<td style=\"width: 18.1186%;\"> </td>\n<td style=\"width: 16.9757%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 11.127%;\"> </td>\n<td style=\"width: 53.7787%;\"> </td>\n<td style=\"width: 18.1186%;\"> </td>\n<td style=\"width: 16.9757%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 11.127%;\"> </td>\n<td style=\"width: 53.7787%;\"> </td>\n<td style=\"width: 18.1186%;\"> </td>\n<td style=\"width: 16.9757%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 11.127%;\"> </td>\n<td style=\"width: 53.7787%;\"> </td>\n<td style=\"width: 18.1186%;\"> </td>\n<td style=\"width: 16.9757%;\"> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+            "id": "https://nmt2722.github.io/PubliiCalepin/preventing-and-fixing-problems.html",
+            "url": "https://nmt2722.github.io/PubliiCalepin/preventing-and-fixing-problems.html",
+            "title": "Preventing and Fixing Problems",
             "author": {
                 "name": "23"
             },
             "tags": [
             ],
-            "date_published": "2022-07-10T21:54:00+05:30",
-            "date_modified": "2022-07-13T19:46:36+05:30"
+            "date_published": "2022-07-14T08:35:11+05:30",
+            "date_modified": "2022-07-14T08:35:11+05:30"
         },
         {
-            "id": "https://nmt2722.github.io/PubliiCalepin/test-post.html",
-            "url": "https://nmt2722.github.io/PubliiCalepin/test-post.html",
-            "title": "A Detour",
-            "summary": "Before we begin .... remember Far far better things ahead than any we leave behind. Azure Topics Drupal Topics",
-            "content_html": "<h1><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://nmt2722.github.io/PubliiCalepin/media/posts/1/whiledowhile.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://nmt2722.github.io/PubliiCalepin/media/posts/1/responsive/whiledowhile-xs.png 300w ,https://nmt2722.github.io/PubliiCalepin/media/posts/1/responsive/whiledowhile-sm.png 480w ,https://nmt2722.github.io/PubliiCalepin/media/posts/1/responsive/whiledowhile-md.png 768w\"  alt=\"\" width=\"715\" height=\"516\"></figure></h1>\n<h1>Before we begin .... remember</h1>\n<blockquote><span style=\"color: #e03e2d;\"><strong>Far far better things ahead than any we leave behind.</strong></span></blockquote>\n<p> </p>\n<p> </p>\n<h1><a href=\"https://nmt2722.github.io/PubliiCalepin/more-testing.html\">Azure Topics</a></h1>\n<h1><a href=\"https://nmt2722.github.io/PubliiCalepin/more-and-more.html\">Drupal Topics</a></h1>",
+            "id": "https://nmt2722.github.io/PubliiCalepin/extending-and-customizing-your-site.html",
+            "url": "https://nmt2722.github.io/PubliiCalepin/extending-and-customizing-your-site.html",
+            "title": "Extending and Customizing your site",
             "author": {
                 "name": "23"
             },
             "tags": [
             ],
-            "date_published": "2022-07-10T21:51:16+05:30",
-            "date_modified": "2022-07-13T19:33:49+05:30"
+            "date_published": "2022-07-14T08:34:43+05:30",
+            "date_modified": "2022-07-14T08:34:43+05:30"
+        },
+        {
+            "id": "https://nmt2722.github.io/PubliiCalepin/making-your-site-multilingual.html",
+            "url": "https://nmt2722.github.io/PubliiCalepin/making-your-site-multilingual.html",
+            "title": "Making your site Multilingual",
+            "author": {
+                "name": "23"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-14T08:34:16+05:30",
+            "date_modified": "2022-07-14T08:34:16+05:30"
+        },
+        {
+            "id": "https://nmt2722.github.io/PubliiCalepin/creating-listings-with-views.html",
+            "url": "https://nmt2722.github.io/PubliiCalepin/creating-listings-with-views.html",
+            "title": "Creating Listings with Views",
+            "author": {
+                "name": "23"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-14T08:33:58+05:30",
+            "date_modified": "2022-07-14T08:33:58+05:30"
+        },
+        {
+            "id": "https://nmt2722.github.io/PubliiCalepin/blocks.html",
+            "url": "https://nmt2722.github.io/PubliiCalepin/blocks.html",
+            "title": "Blocks",
+            "author": {
+                "name": "23"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-14T08:33:33+05:30",
+            "date_modified": "2022-07-14T08:33:33+05:30"
+        },
+        {
+            "id": "https://nmt2722.github.io/PubliiCalepin/managing-user-accounts.html",
+            "url": "https://nmt2722.github.io/PubliiCalepin/managing-user-accounts.html",
+            "title": "Managing User Accounts",
+            "author": {
+                "name": "23"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-14T08:33:25+05:30",
+            "date_modified": "2022-07-14T08:33:25+05:30"
+        },
+        {
+            "id": "https://nmt2722.github.io/PubliiCalepin/setting-up-content-structure.html",
+            "url": "https://nmt2722.github.io/PubliiCalepin/setting-up-content-structure.html",
+            "title": "Setting Up Content Structure",
+            "author": {
+                "name": "23"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-14T08:33:02+05:30",
+            "date_modified": "2022-07-14T08:33:02+05:30"
+        },
+        {
+            "id": "https://nmt2722.github.io/PubliiCalepin/basic-page-management.html",
+            "url": "https://nmt2722.github.io/PubliiCalepin/basic-page-management.html",
+            "title": "Basic Page Management",
+            "author": {
+                "name": "23"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-14T08:32:44+05:30",
+            "date_modified": "2022-07-14T08:32:44+05:30"
         }
     ]
 }
